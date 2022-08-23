@@ -192,7 +192,7 @@ async def play(_, message: Message):
                [
                         InlineKeyboardButton(
                             text="𝘾𝙃𝘼𝙏 𝙕𝙊𝙉𝙀🤍",
-                            url=f"{https://t.me/Tamil_Chatszz}")
+                            url=f"{PROFILE_CHANNEL}")
                    
                 ]
             ]
@@ -245,7 +245,7 @@ async def play(_, message: Message):
                [
                         InlineKeyboardButton(
                             text="𝘾𝙃𝘼𝙏 𝙕𝙊𝙉𝙀🤍",
-                            url=f"{https://t.me/Tamil_Chatszz}")
+                            url=f"{PROFILE_CHANNEL}")
                    
                 ]
             ]
@@ -275,7 +275,7 @@ async def play(_, message: Message):
                [
                         InlineKeyboardButton(
                             text="𝘾𝙃𝘼𝙏 𝙕𝙊𝙉𝙀🤍",
-                            url=f"{https://t.me/Tamil_Chatszz}")
+                            url=f"{PROFILE_CHANNEL}")
                    
                 ]
             ]
@@ -343,7 +343,7 @@ async def play(_, message: Message):
                [
                         InlineKeyboardButton(
                             text="𝘾𝙃𝘼𝙏 𝙕𝙊𝙉𝙀🤍",
-                            url=f"{https://t.me/Tamil_Chatszz}")
+                            url=f"{PROFILE_CHANNEL}")
                    
                 ]
             ]
